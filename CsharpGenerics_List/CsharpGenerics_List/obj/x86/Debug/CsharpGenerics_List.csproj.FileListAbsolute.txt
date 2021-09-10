@@ -1,0 +1,6 @@
+/home/jlitodelcid/Desktop/Programs/CsharpGenerics_List/CsharpGenerics_List/obj/x86/Debug/CsharpGenerics_List.csprojAssemblyReference.cache
+/home/jlitodelcid/Desktop/Programs/CsharpGenerics_List/CsharpGenerics_List/obj/x86/Debug/CsharpGenerics_List.csproj.CoreCompileInputs.cache
+/home/jlitodelcid/Desktop/Programs/CsharpGenerics_List/CsharpGenerics_List/bin/Debug/CsharpGenerics_List.exe
+/home/jlitodelcid/Desktop/Programs/CsharpGenerics_List/CsharpGenerics_List/bin/Debug/CsharpGenerics_List.pdb
+/home/jlitodelcid/Desktop/Programs/CsharpGenerics_List/CsharpGenerics_List/obj/x86/Debug/CsharpGenerics_List.exe
+/home/jlitodelcid/Desktop/Programs/CsharpGenerics_List/CsharpGenerics_List/obj/x86/Debug/CsharpGenerics_List.pdb
